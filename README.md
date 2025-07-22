@@ -52,5 +52,8 @@ O projeto se adapta a diferentes tamanhos de tela graças à flexibilidade do Bo
 
 Este projeto foi inspirado na prática de aplicações interativas com manipulação de DOM, eventos e filtros em tempo real, sendo ideal para aprendizado de JavaScript puro.
 
-## Demonstração Visual
+## 🖼️ Demonstração Visual
 <img width="927" height="543" alt="image" src="https://github.com/user-attachments/assets/0ff66163-ceb1-4502-861b-3cd084032ddf" />
+
+## 📱 Visualize o projeto no link abaixo:
+https://gabste8831.github.io/To-do-list-project/
